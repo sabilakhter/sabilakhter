@@ -1,34 +1,24 @@
-👋 Hey, I'm Sabil Akhter
-🔧 Operations/Data Enthusiast focused on transforming operational data into actionable insights to improve business efficiency.
+# 👋 Hey, I'm Sabil Akhter
 
-🎯 Skills & Tools:
+🔧 **Operations/Data Enthusiast** focused on transforming operational data into actionable insights to improve business efficiency.
 
-SQL: Data querying, analysis, and reporting
+🎯 **Skills & Tools**:
+- **SQL**: Data querying, analysis, and reporting
+- **Power BI**: Dashboards, data visualizations, KPI tracking
+- **Excel**: Data manipulation, analysis, and reporting
+- **Supply Chain**: Data-driven optimization for logistics and inventory
 
-Power BI: Dashboards, data visualizations, KPI tracking
+💼 **Projects**:
+- 🔹 [Sales Dashboard – Power BI](https://github.com/sabilakhter/sales-dashboard-powerbi)
+- 🔹 [Meesho Product Analysis – Excel](https://github.com/sabilakhter/meesho-excel-dashboard)
+- 🔹 [Zomato Data Analysis – SQL](https://github.com/sabilakhter/zomato-data-analysis)
 
-Excel: Data manipulation, analysis, and reporting
+📚 **Education**:
+- B.A. (Voc) Material Management – Delhi University
+- Certifications: Excel, SQL, Power BI, Python
 
-Supply Chain: Data-driven optimization for logistics and inventory
+🚀 **Goal**: To build efficient, data-driven processes for operations and supply chain management using analytical tools like Power BI, SQL, and Excel.
 
-💼 Projects:
-
-🔹 Sales Dashboard – Power BI
-
-🔹 Meesho Product Analysis – Excel
-
-🔹 Zomato Data Analysis – SQL
-
-📚 Education:
-
-B.A. (Voc) Material Management – Delhi University
-
-Certifications: Excel, SQL, Power BI, Python
-
-🚀 Goal: To build efficient, data-driven processes for operations and supply chain management using analytical tools like Power BI, SQL, and Excel.
-
-📫 Contact:
-
-📧 Email
-
-🌐 LinkedIn
+📫 **Contact**:
+- 📧 [Email](mailto:sabilakhter05@gmail.com)
+- 🌐 [LinkedIn](https://linkedin.com/in/sabilakhter)
