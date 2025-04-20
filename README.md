@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Hey, I'm Sabil Akhter
+🔧 Operations/Data Enthusiast focused on transforming operational data into actionable insights to improve business efficiency.
 
-<!--
-**sabilakhter/sabilakhter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Skills & Tools:
 
-Here are some ideas to get you started:
+SQL: Data querying, analysis, and reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Power BI: Dashboards, data visualizations, KPI tracking
+
+Excel: Data manipulation, analysis, and reporting
+
+Supply Chain: Data-driven optimization for logistics and inventory
+
+💼 Projects:
+
+🔹 Sales Dashboard – Power BI
+
+🔹 Meesho Product Analysis – Excel
+
+🔹 Zomato Data Analysis – SQL
+
+📚 Education:
+
+B.A. (Voc) Material Management – Delhi University
+
+Certifications: Excel, SQL, Power BI, Python
+
+🚀 Goal: To build efficient, data-driven processes for operations and supply chain management using analytical tools like Power BI, SQL, and Excel.
+
+📫 Contact:
+
+📧 Email
+
+🌐 LinkedIn
